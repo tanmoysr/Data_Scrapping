@@ -95,6 +95,6 @@ if __name__ == "__main__":
         static_features[repo_gid_graph[repo]] = get_github_repo_info(repo, token)
         print(repo)
 
-    with open("CINA data/github/static_features22.json", "w") as outfile:
+    with open("CINA data/github/static_features.json", "w") as outfile:
         json.dump(static_features, outfile, indent=4)
     print(static_features)

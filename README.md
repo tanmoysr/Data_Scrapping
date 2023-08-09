@@ -1,7 +1,8 @@
 ## Data Scrapping
+Here the codes are available for scrapping data from GitHub, Twitter, and Zillow.
 
 ## Scrapping from GitHub
-This code (get_github.py) helps to scrap data from GitHub if the address is available.
+This code, [get_github.py](get_github.py) helps to scrap data from GitHub if the address is available.
 
 ### Dependencies
 Install the following libraries.
@@ -19,7 +20,7 @@ Put the correct file names for file_name and saving_file_name variables.
 Run the get_github.py
 
 ## Scrapping from Twitter
-This code (get_tweets.py) helps to scrap data from Twitter if the address is available.
+This code, [get_tweets.py](get_tweets.py) helps to scrap data from Twitter if the address is available.
 
 ### Dependencies
 Install the following libraries.
@@ -37,7 +38,7 @@ Put the correct file names for file_name and saving_file_name variables.
 Run the get_tweets.py
 
 ## Scrapping from Zillow
-This code (get_zillow.py) helps to scrap data from Zillow if the address is available.
+This code, [get_zillow.py](get_zillow.py) helps to scrap data from Zillow if the address is available.
 
 ### Dependencies
 Install the following libraries.
